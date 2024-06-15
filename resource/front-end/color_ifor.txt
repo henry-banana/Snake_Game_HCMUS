@@ -1,0 +1,28 @@
+đen: 10
+
+
+xanh biển đậm: 20 30
+xanh biển vừa: 150
+xanh biển nhạt (vừa): 50 60
+xanh biển nhạt: 180 190
+
+
+xanh lá đậm: 40
+xanh lá nhạt: 170
+
+
+đỏ đậm: 70
+đỏ nhạt (cam): 200
+
+
+tím đậm: 80 90
+tím nhạt: 210 220
+
+
+vàng đậm (nâu): 100 110
+vàng nhạt: 230
+
+màu vô sắc: 120
+
+màu xám: 130 140
+màu trắng: 240 250
